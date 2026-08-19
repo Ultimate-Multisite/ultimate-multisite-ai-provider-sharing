@@ -4,6 +4,7 @@
  * Description: Makes AI providers configured on a multisite network's main site available to every subsite.
  * Version: 1.0.0
  * Requires at least: 6.1
+ * Tested up to: 7.1
  * Requires PHP: 7.4
  * Network: true
  * Text Domain: main-site-ai-providers
